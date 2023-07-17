@@ -118,7 +118,7 @@ Backend와 Frontend를 모두 실행해야 어플리케이션을 확인할 수 �
     <summary>Paper Prototyping</summary>
 
 <div align="center">
-<img width="500" alt="image" src="https://github.com/olo02/AWS_fullstack_semi_project_SNS/assets/121186383/d0d9fddd-53be-4249-8fa6-48014540e2c8">
+<img alt="image" src="https://github.com/olo02/AWS_fullstack_semi_project_SNS/assets/121186383/d0d9fddd-53be-4249-8fa6-48014540e2c8">
 </div>
 </details>
 
@@ -129,7 +129,7 @@ Backend와 Frontend를 모두 실행해야 어플리케이션을 확인할 수 �
 
 <br>
 <div align="center">
-<img width="500" alt="image" src="https://github.com/olo02/AWS_fullstack_semi_project_SNS/assets/121186383/da1e4237-c759-48d4-a81f-7d14ed119aa5">
+<img alt="image" src="https://github.com/olo02/AWS_fullstack_semi_project_SNS/assets/121186383/da1e4237-c759-48d4-a81f-7d14ed119aa5">
 </div>
 </details>
 
