@@ -110,17 +110,6 @@ Backend와 Frontend를 모두 실행해야 어플리케이션을 확인할 수 �
 
 ### 요구사항
 
-<details markdown="1">
-    <summary>요구사항 정의서 문서</summary>
-
-<div align="center">
-<br>
-<img width="500" alt="image" src="https://github.com/olo02/AWS_fullstack_semi_project_SNS/assets/121186383/da1e4237-c759-48d4-a81f-7d14ed119aa5">
-</div>
-</details>
-
-<br>
-
 [요구사항 정의서 문서 엑셀 파일](https://onedrive.live.com/edit.aspx?resid=39026BE146DB1865!9909&ithint=file%2cxlsx&authkey=!AHkkaw2eZGgqXIE)
 
 ### UI/UX 디자인
