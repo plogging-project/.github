@@ -16,7 +16,7 @@
 
 <br>
 <div align="center">
-    <img width="600" alt="image" src="https://github.com/plogging-project/.github/assets/121186383/3d468971-41ce-40d5-9f07-97b5e0c9f7ca">
+    <img width="700" alt="image" src="https://github.com/plogging-project/.github/assets/121186383/3d468971-41ce-40d5-9f07-97b5e0c9f7ca">
 </div>
 <br>
 
