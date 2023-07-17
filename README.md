@@ -153,36 +153,6 @@ Backend와 Frontend를 모두 실행해야 어플리케이션을 확인할 수 �
 
 <br>
 
----
-
-## 화면 구성
-
-<div align="center">
-
-|                                                                     Web                                                                      |                                                                    Mobile                                                                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                 메인 페이지                                                                  |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/e4f1eddc-8059-4c5b-bf27-faefbf3def1a"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/a22c6de5-b5f4-42f4-ba35-fe40f4aa4d3b"/> |
-|                                                                로그인 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/8555a616-ac73-4df1-a9d1-b0c6bde20b1d"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/3a52d4cd-f015-42d7-b61a-c8606ccfe19b"/> |
-|                                                               회원가입 페이지                                                                |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/2a7f961d-9c75-451f-9079-ffc3620a60d4"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/92022ac6-3a69-4c29-b8c6-63c54427ece2"/> |
-|                                                                플로깅 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/e360cad9-5bfe-469f-a03a-bebf1e75b872"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/8d97bdcf-f068-4c7e-ab6e-13dff8fdc2ff"/> |
-|                                                               커뮤니티 페이지                                                                |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/7d8832a5-91e2-4784-a7f3-d614482468b5"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/91ca6993-02de-4ba1-900d-d12a77a92d4b"/> |
-|                                                                챌린지 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/d5ad0a17-0e6c-4a6d-82a1-de03190b0826"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/d4698bbc-1466-4006-88d0-52f1965323d5"/> |
-|                                                                리워드 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/43fe7148-b6c5-4a46-add1-170b13bc77c2"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/c062ce52-538a-4837-9d61-ecf103674f5b"/> |
-|                                                                 플친 페이지                                                                  |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/71912df1-f255-4b3e-9782-0cdd66fce7ef"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/5b79bb32-c8f6-4770-bb3a-986b49d847a7"/> |
-|                                                                프로필 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/6bb0576c-44f5-42e0-86c2-9fe1fc963282"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/dfc23729-cd0f-4033-af21-7479e5210dfd"/> |
-|                                                                관리자 페이지                                                                 |                                                                                                                                              |
-| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/c68e2df0-87fc-49ed-9d48-5b35bbb229ff"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/a1fa7384-4895-4627-aae9-e67ce8bf0485"/> |
-
-</div>
 
 ---
 
@@ -303,6 +273,40 @@ Frontend
 ├── package.json
 └── yarn.lock
 ```
+
+
+---
+
+## 화면 구성
+
+<div align="center">
+
+|                                                                     Web                                                                      |                                                                    Mobile                                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                 메인 페이지                                                                  |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/e4f1eddc-8059-4c5b-bf27-faefbf3def1a"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/a22c6de5-b5f4-42f4-ba35-fe40f4aa4d3b"/> |
+|                                                                로그인 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/8555a616-ac73-4df1-a9d1-b0c6bde20b1d"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/3a52d4cd-f015-42d7-b61a-c8606ccfe19b"/> |
+|                                                               회원가입 페이지                                                                |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/2a7f961d-9c75-451f-9079-ffc3620a60d4"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/92022ac6-3a69-4c29-b8c6-63c54427ece2"/> |
+|                                                                플로깅 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/e360cad9-5bfe-469f-a03a-bebf1e75b872"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/8d97bdcf-f068-4c7e-ab6e-13dff8fdc2ff"/> |
+|                                                               커뮤니티 페이지                                                                |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/7d8832a5-91e2-4784-a7f3-d614482468b5"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/91ca6993-02de-4ba1-900d-d12a77a92d4b"/> |
+|                                                                챌린지 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/d5ad0a17-0e6c-4a6d-82a1-de03190b0826"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/d4698bbc-1466-4006-88d0-52f1965323d5"/> |
+|                                                                리워드 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/43fe7148-b6c5-4a46-add1-170b13bc77c2"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/c062ce52-538a-4837-9d61-ecf103674f5b"/> |
+|                                                                 플친 페이지                                                                  |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/71912df1-f255-4b3e-9782-0cdd66fce7ef"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/5b79bb32-c8f6-4770-bb3a-986b49d847a7"/> |
+|                                                                프로필 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/6bb0576c-44f5-42e0-86c2-9fe1fc963282"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/dfc23729-cd0f-4033-af21-7479e5210dfd"/> |
+|                                                                관리자 페이지                                                                 |                                                                                                                                              |
+| <img width="500" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/c68e2df0-87fc-49ed-9d48-5b35bbb229ff"/> | <img width="200" src="https://github.com/plogging-project/Plogging_Project_Frontend/assets/121186383/a1fa7384-4895-4627-aae9-e67ce8bf0485"/> |
+
+</div>
+
+
 
 ---
 
