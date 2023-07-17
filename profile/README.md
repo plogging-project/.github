@@ -15,11 +15,6 @@
 > Demo Site : https://jubging.olooe.city
 
 <br>
-<div align="center">
-    <img width="700" alt="image" src="https://github.com/plogging-project/.github/assets/121186383/3d468971-41ce-40d5-9f07-97b5e0c9f7ca">
-</div>
-<br>
-
 풀스택 개발자 과정의 파이널 프로젝트로 본 애플리케이션을 제작하였습니다. 제작 과정에서 SpringBoot와 React의 사용 능숙도를 높이고, 데이터 마이닝 과정과 시큐리티의 활용을 중점으로 프로젝트를 진행하였습니다.
 
 개발환경은 Backend는 SpringBoot, Frontend는 React로 나누어 개발을 진행하였습니다. DataBase는 MariaDB를 사용하였고, Amazon EC2 및 Nginx와 tomcat을 사용하여 데모 사이트를 배포하였습니다.
