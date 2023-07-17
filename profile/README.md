@@ -15,9 +15,7 @@
 > Demo Site : https://jubging.olooe.city
 
 <br>
-풀스택 개발자 과정의 파이널 프로젝트로 본 애플리케이션을 제작하였습니다. 제작 과정에서 SpringBoot와 React의 사용 능숙도를 높이고, 데이터 마이닝 과정과 시큐리티의 활용을 중점으로 프로젝트를 진행하였습니다.
-
-개발환경은 Backend는 SpringBoot, Frontend는 React로 나누어 개발을 진행하였습니다. DataBase는 MariaDB를 사용하였고, Amazon EC2 및 Nginx와 tomcat을 사용하여 데모 사이트를 배포하였습니다.
+풀스택 개발자 과정의 파이널 프로젝트로 본 애플리케이션을 제작하였습니다. SpringBoot와 React의 사용 능숙도를 높이는 것과, 데이터 마이닝 과정과 시큐리티의 활용을 목표로 하여 프로젝트를 진행하였습니다. 개발환경은 Backend는 SpringBoot, Frontend는 React로 나누어 개발을 진행하였습니다. DataBase는 MariaDB를 사용하였고, Amazon EC2 및 Nginx와 tomcat을 사용하여 데모 사이트를 배포하였습니다.
 
 줍깅 애플리케이션은 Tmap API와 GeoLocation API를 통해 사용자의 실시간 위치를 지도 위에 제공합니다. 또한 서울두드림길 생태문화길 코스정보 API를 활용하여 추천 산책경로를 안내합니다.
 
